@@ -1,3 +1,8 @@
+spring:
+  application:
+    name: UserServiceHrs
+
+
 eureka:
   instance:
     prefer-ip-address: true
